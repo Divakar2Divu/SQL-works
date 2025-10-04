@@ -14,4 +14,4 @@ It includes:
 
 **Technologies used:** SQL, Excel (if any), Data Analysis.
 
-**Author:** Divakar KGL
+**Author:** Divakar
